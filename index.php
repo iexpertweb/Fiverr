@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<script src="https://analytics.ahrefs.com/analytics.js" data-key="dErUc1/JTcsii3f/zUV8vw" async></script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Fiverr Always Active</title>
